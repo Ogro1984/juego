@@ -34,3 +34,4 @@ function cambiarFondo() {
   if (flipflop==0){$(".main-titulo").css("color","yellow");flipflop=1;}
   else{$(".main-titulo").css("color","white");flipflop=0;}
 }
+//
